@@ -1,47 +1,31 @@
 import React from 'react'
 import Nav from './Nav'
 import AudioTemplate from './AudioTemplate'
-import AudioOne from './Facading - You And Me [NCS Release].mp3'
-import AudioTwo from './Lost Sky - Need You [NCS Release].mp3'
-import AudioThree from './Lost Sky - Vision [NCS Release].mp3'
-import AudioFour from './Lost Sky - Dreams pt. II (feat. Sara Skinner) [NCS Release].mp3'
-import AudioFive from './Diamond Eyes - Gravity [NCS Release].mp3'
-import AudioSix from './Diamond Eyes - Flutter [NCS Release].mp3'
-import AudioSeven from './Diamond Eyes - Everything [NCS Release].mp3'
+
 
 function AudioSingles() {
     return (
         <div>
             <Nav />
             <div className="audio-sing">
-            <AudioTemplate
-                title="Facading - You And Me [NCS Release].mp3"
-                src={AudioOne}
-                />
-                <AudioTemplate
-                title="Lost Sky - Need You [NCS Release].mp3"
-                src={AudioTwo}
-                />
-                <AudioTemplate
-                title="Lost Sky - Vision [NCS Release].mp3"
-                src={AudioThree}
-                />
-                <AudioTemplate
-                title="Lost Sky - Dreams pt. II (feat. Sara Skinner) [NCS Release].mp3"
-                src={AudioFour}
-                />
-                <AudioTemplate
-                title="Diamond Eyes - Gravity [NCS Release].mp3"
-                src={AudioFive}
-                />
-                <AudioTemplate
-                title="Diamond Eyes - Flutter [NCS Release].mp3"
-                src={AudioSix}
-                />
-                <AudioTemplate
-                title="Diamond Eyes - Everything [NCS Release].mp3"
-                src={AudioSeven}
-                />
+            <AudioTemplate 
+                src="https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/913/you-and-me-1614333639-TFbNLFMMGs.mp3"
+            />
+            <AudioTemplate 
+                src="https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/883/1609102805_xqBo18AgD8_Lost-Sky---Need-You-NCS-Release.mp3"
+            />
+            <AudioTemplate 
+                src="https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/671/where-we-started-feat-jex-1586959343-ugPNLDQsMI.mp3"
+            />
+            <AudioTemplate 
+                src="https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/616/vision-1586958106-w6RKce6Cz4.mp3"
+            />
+            <AudioTemplate 
+                src="https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/516/dreams-1586955327-tIgsclVBNj.mp3"
+            />
+            <AudioTemplate 
+                src="https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/488/waiting-1586954633-oAYB1FDMLO.mp3"
+            />
             </div>
         </div>
     )

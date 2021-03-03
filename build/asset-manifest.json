@@ -1,22 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.82caa70d.chunk.css",
-    "main.js": "/static/js/main.9481eee6.chunk.js",
-    "main.js.map": "/static/js/main.9481eee6.chunk.js.map",
+    "main.js": "/static/js/main.e53f337f.chunk.js",
+    "main.js.map": "/static/js/main.e53f337f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9b5130b9.js",
     "runtime-main.js.map": "/static/js/runtime-main.9b5130b9.js.map",
-    "static/js/2.06d02e5a.chunk.js": "/static/js/2.06d02e5a.chunk.js",
-    "static/js/2.06d02e5a.chunk.js.map": "/static/js/2.06d02e5a.chunk.js.map",
+    "static/js/2.e296ed5c.chunk.js": "/static/js/2.e296ed5c.chunk.js",
+    "static/js/2.e296ed5c.chunk.js.map": "/static/js/2.e296ed5c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.82caa70d.chunk.css.map": "/static/css/main.82caa70d.chunk.css.map",
-    "static/js/2.06d02e5a.chunk.js.LICENSE.txt": "/static/js/2.06d02e5a.chunk.js.LICENSE.txt",
-    "static/media/Facading - You And Me [NCS Release].86361aad.mp3": "/static/media/Facading - You And Me [NCS Release].86361aad.mp3",
-    "static/media/Flutter Provider - Advanced Firebase Data Management.85327bf8.mp4": "/static/media/Flutter Provider - Advanced Firebase Data Management.85327bf8.mp4"
+    "static/js/2.e296ed5c.chunk.js.LICENSE.txt": "/static/js/2.e296ed5c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9b5130b9.js",
-    "static/js/2.06d02e5a.chunk.js",
+    "static/js/2.e296ed5c.chunk.js",
     "static/css/main.82caa70d.chunk.css",
-    "static/js/main.9481eee6.chunk.js"
+    "static/js/main.e53f337f.chunk.js"
   ]
 }
